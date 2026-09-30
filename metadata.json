@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Improvement Agent - Colab Notebook & Studio",
+  "description": "Interactive Google Colab Notebook generator and testing studio for the AI Resume Improvement Agent with LangChain, Groq, HuggingFace embeddings, FAISS RAG, and Gradio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
